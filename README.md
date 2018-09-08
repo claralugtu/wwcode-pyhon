@@ -1,2 +1,2 @@
-# wwcode-pyhon
+# wwcode-python
 Activities from wwcode study group
