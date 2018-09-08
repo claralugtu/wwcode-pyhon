@@ -3,7 +3,7 @@
 # Python.
 
 myname = 'Clara'
-print('Hello ' + myname)
-
+mylname = 'Lugtu'
+print('Hello ' + myname + ' '+ mylname +'! Welcome to WWCodeManila!')
 
 
